@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+# RSA keys (do not commit)
+keys/private.pem
+keys/public.pem
